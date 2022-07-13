@@ -1,0 +1,14 @@
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\bin\Debug\net6.0\AdventureWorksLTDB.deps.json
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\bin\Debug\net6.0\AdventureWorksLTDB.dll
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\bin\Debug\net6.0\AdventureWorksLTDB.pdb
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.csproj.AssemblyReference.cache
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.AssemblyInfoInputs.cache
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.AssemblyInfo.cs
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.csproj.CoreCompileInputs.cache
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.dll
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\refint\AdventureWorksLTDB.dll
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.pdb
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\ref\AdventureWorksLTDB.dll
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\bin\Debug\net6.0\AdventureWorksLTDB.runtimeconfig.json
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksLTDB\AdventureWorksLTDB\obj\Debug\net6.0\AdventureWorksLTDB.genruntimeconfig.cache
