@@ -1,0 +1,26 @@
+﻿@page
+@model AdventureWorksWeb.Pages.clientesModel
+@{
+}
+<div class="row">
+    <h1 class="display-2">Suppliers</h1>
+    <table class="tale">
+        <thead class="thead-inverse">
+            <tr><th>First Name</th>
+            <th>Middle Name</th>
+            <th>last Name</th></tr>
+        </thead>
+        <tbody>
+            @if (Model.Suppliers is not null)
+            {
+                @foreach(Supplier name in Model.Suppliers)
+                {
+                    <tr><td>@name.CompanyName</td>
+                    <td>@name.ContactName</td>
+                    <td>@name.ContactTitle</td></tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+<br /><br />

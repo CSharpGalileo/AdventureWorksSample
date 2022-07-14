@@ -19,3 +19,9 @@ C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb
 C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\obj\Debug\net6.0\AdventureWorksWeb.pdb
 C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\obj\Debug\net6.0\AdventureWorksWeb.genruntimeconfig.cache
 C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\obj\Debug\net6.0\ref\AdventureWorksWeb.dll
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\bin\Debug\net6.0\AdventureWorksWeb.staticwebassets.runtime.json
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\obj\Debug\net6.0\AdventureWorksWeb.RazorAssemblyInfo.cache
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\obj\Debug\net6.0\AdventureWorksWeb.RazorAssemblyInfo.cs
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\bin\Debug\net6.0\LibreriaAdventureWorksLT.dll
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\bin\Debug\net6.0\LibreriaAdventureWorksLT.pdb
+C:\Users\apalm\source\repos\CSharpGalileo\AdventureWorksSample\AdventureWorksWeb\AdventureWorksWeb\obj\Debug\net6.0\AdventureWorksWeb.csproj.CopyComplete

@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "sH8Ks3l/7EWsKtsGJootcRftfQKX2AKlsa8Dt12lSj8=",
+  "Hash": "VdBe1klvKGENQxbIhv5+l4QROPITpJSTeefaqUzMTGw=",
   "Source": "AdventureWorksWeb",
   "BasePath": "_content/AdventureWorksWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdventureWorksWeb\\wwwroot",
+      "Source": "AdventureWorksWeb",
+      "ContentRoot": "C:\\Users\\apalm\\source\\repos\\CSharpGalileo\\AdventureWorksSample\\AdventureWorksWeb\\AdventureWorksWeb\\wwwroot\\",
+      "BasePath": "_content/AdventureWorksWeb",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

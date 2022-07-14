@@ -6,4 +6,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LibreriaAdventureWorksLT">
+      <HintPath>..\..\..\LibreriaAdventureWorksLT\LibreriaAdventureWorksLT\LibreriaAdventureWorksLT\bin\Debug\net6.0\LibreriaAdventureWorksLT.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
